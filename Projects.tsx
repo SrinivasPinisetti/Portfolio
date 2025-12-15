@@ -84,7 +84,7 @@ const Projects: React.FC = () => {
       description: "A user-friendly application designed to help individuals track their daily expenses, categorize transactions, and visualize spending patterns. Built with Java, JDBC, it ensures efficient management of personal finances with real-time updates and easy-to-use features.",
       image: "https://images.pexels.com/photos/16282306/pexels-photo-16282306/free-photo-of-a-person-using-a-calculator.jpeg?auto=compress&cs=tinysrgb&w=600",
       tags: ["Core Java", "Advance Java","JDBC"],
-      // liveLink: "https://example.com/ecommerce-demo",
+       liveLink: "https://live.codetogether.io/#/pqJnMgQRY7FcTxAL8aqUK4/u7cIUulYKD6Ug9WJjCXvz3",
       // codeLink: "https://github.com/johndoe/ecommerce-project",
       featured: true,
       category: "web"
